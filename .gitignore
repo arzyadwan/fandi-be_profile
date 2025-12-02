@@ -1,0 +1,26 @@
+# .gitignore
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual Environment
+venv/
+.venv/
+.env
+
+# Django specific
+/staticfiles/
+/media/
+
+# Node modules (Frontend)
+myitblog_frontend/node_modules/
+myitblog_frontend/dist/  # Folder build Vite
+myitblog_frontend/npm-debug.log*
+
+# Operating System/IDE artifacts
+.DS_Store
+.vscode/

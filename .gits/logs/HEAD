@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 db7d67eb39e427143bf57c5e766f713cfd653e83 unknown <arzyadwan@gmail.com> 1762352565 +0700	clone: from https://github.com/rifandii/myitblog.git
+db7d67eb39e427143bf57c5e766f713cfd653e83 840259c65e7d6829f2598d4976f1c26cd8067b8c unknown <arzyadwan@gmail.com> 1762762857 +0700	commit: timpa code
+840259c65e7d6829f2598d4976f1c26cd8067b8c 840259c65e7d6829f2598d4976f1c26cd8067b8c unknown <arzyadwan@gmail.com> 1763399097 +0700	checkout: moving from development to front-end
+840259c65e7d6829f2598d4976f1c26cd8067b8c 7485bec847b6520e1874d074b9dfd3bdc6def311 unknown <arzyadwan@gmail.com> 1763399132 +0700	commit: optimasi frontend, menambahkan komponen article card untuk home dan footer
+7485bec847b6520e1874d074b9dfd3bdc6def311 8346f219249d82319f89d7b302a0904cd8bf5ac8 unknown <arzyadwan@gmail.com> 1763403028 +0700	commit: tambah readme
+8346f219249d82319f89d7b302a0904cd8bf5ac8 9501fe1612c1292fb6d5dbed19c648d67bac84ba unknown <arzyadwan@gmail.com> 1763403132 +0700	commit: tambah readme
+9501fe1612c1292fb6d5dbed19c648d67bac84ba 844a475cf27cb47c1c8221aec4abb71e011f4657 unknown <arzyadwan@gmail.com> 1763699579 +0700	commit: frontend terbaru
+844a475cf27cb47c1c8221aec4abb71e011f4657 fb529796c58a7b1b4623cc6408a1ccaf9c549930 unknown <arzyadwan@gmail.com> 1763731814 +0700	commit: sddfgfhgfh
+fb529796c58a7b1b4623cc6408a1ccaf9c549930 8b391df578b5109e97c9a78886169f6efaeaa370 unknown <arzyadwan@gmail.com> 1764695811 +0700	commit: perbaiki list artikel hapus gambar dan navbar disticky aj deh

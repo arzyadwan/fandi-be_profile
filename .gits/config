@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/rifandii/myitblog.git
+	fetch = +refs/heads/development:refs/remotes/origin/development
+[branch "development"]
+	remote = origin
+	merge = refs/heads/development
+[branch "front-end"]
+	remote = origin
+	merge = refs/heads/front-end
+	vscode-merge-base = origin/development
