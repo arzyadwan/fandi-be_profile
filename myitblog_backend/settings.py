@@ -143,7 +143,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",           # Untuk dev lokal
     "http://127.0.0.1:5173",
-    "https://ravellnetwork.vercel.app/",  
+    "https://ravellnetwork.vercel.app",  
 ]
 
 # Agar browser mengizinkan cookie/session cross-domain (opsional tapi sering dibutuhkan)
@@ -152,7 +152,7 @@ CORS_ALLOW_CREDENTIALS = True
 # CSRF Trusted Origins (Penting untuk POST request dari Vercel)
 CSRF_TRUSTED_ORIGINS = [
     "http://localhost:5173",
-    "https://ravellnetwork.vercel.app/",
+    "https://ravellnetwork.vercel.app",
     "https://fandi-beprofile-production.up.railway.app",
 ]
 
