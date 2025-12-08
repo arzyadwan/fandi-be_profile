@@ -169,11 +169,3 @@ REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE': 10,
 }
-```
-
-### Checklist Wajib Sebelum Commit:
-
-1.  **Install Paket Baru:** Karena saya menambahkan `dj-database-url` dan `whitenoise`, Anda harus menginstallnya di lokal lalu update `requirements.txt`.
-    ```bash
-    pip install dj-database-url whitenoise
-    pip freeze > requirements.txt
